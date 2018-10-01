@@ -1,0 +1,6 @@
+To calculate a mortgage payment, what types would you use
+for the rate, principal, and payment? Explain why you selected each type.
+
+unsigned int for the principal and the payment cause it shouldn't be negative, money start from 0. 
+
+double for the rate, I wanted to use "float" at the first but I learned float usually does not have enough precision. double is more precision and faster.
