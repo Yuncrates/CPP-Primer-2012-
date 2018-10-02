@@ -1,0 +1,11 @@
+Determine the type of each of the following literals. Explain
+the differences among the literals in each of the four examples:
+(a) 'a', L'a', "a", L"a"
+(b) 10, 10u, 10L, 10uL, 012, 0xC
+(c) 3.14, 3.14f, 3.14L
+(d) 10, 10u, 10., 10e-2
+
+1. single character 'a', wide single character 'a', string "a", wide string "a"
+2. decimal, unsinged decimal, unsigned decimal long, unsinged long decial, octal, hexa  
+3. double, float, long double
+4. decimal, decimal unsigned, double, float
