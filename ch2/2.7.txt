@@ -1,0 +1,7 @@
+What values do these literals represent? What type does each
+have?
+(a) "Who goes with F\145rgus?\012" // string
+(b) 3.14e1L // e1, 31.4 long double
+(c) 1024f // x its not floating number
+(d) 3.14L // long double
+
