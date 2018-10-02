@@ -1,0 +1,6 @@
+Exercise 2.9: Explain the following definitions. For those that are illegal,
+explain what¡¯s wrong and how to correct it.
+(a) std::cin >> int input_value;  // Uninitialized, initialize int intput_value first
+(b) int i = { 3.14 }; // error: narrowing conversion required
+(c) double salary = wage = 9999.99; // initialize wage first!
+(d) int i = 3.14; // ok but value will be truncated.
