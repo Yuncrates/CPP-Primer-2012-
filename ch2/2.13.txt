@@ -1,0 +1,6 @@
+int i = 42; // global scope 
+int main()
+{
+int i = 100; // new local object i is in scope, 100.
+int j = i; // 100
+}
